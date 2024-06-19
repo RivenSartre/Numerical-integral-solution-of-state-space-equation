@@ -1,4 +1,3 @@
-![image](https://github.com/RivenSartre/Numerical-integral-solution-of-state-space-equation/assets/74661424/adbbe838-1ece-4489-95f4-cddd76e45ab5)# Numerical-integral-solution-of-state-space-equation
 # 用数值积分法做的状态空间方程求解
 
 一个用MATLAB相对原理性的状态空间方程求解与控制系统仿真，没有使用MATLAB的工具箱，可能对一些不便使用工具箱的开发有帮助。
